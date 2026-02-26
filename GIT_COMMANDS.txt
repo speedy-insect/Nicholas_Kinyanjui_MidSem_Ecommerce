@@ -14,7 +14,7 @@ STEP 2: Create GitHub Repository
 ---------------------------------
 1. Go to: https://github.com
 2. Click: "New repository"
-3. Name: dsa3050-midsem-powerbi
+3. Name: Nicholas_Kinyanjui_MidSem_Ecommerce
 4. Description: DSA 3050A Mid-Semester Exam - Power BI E-Commerce Analysis
 5. Public repository
 6. Do NOT initialize with README
@@ -25,30 +25,23 @@ STEP 3: Push to GitHub
 -----------------------
 Run these commands in MidSem folder:
 
-git remote add origin https://github.com/YOUR_USERNAME/dsa3050-midsem-powerbi.git
+git remote add origin https://github.com/speedy-insect/Nicholas_Kinyanjui_MidSem_Ecommerce.git
 git branch -M main
 git push -u origin main
-
-Replace YOUR_USERNAME with your GitHub username!
 
 
 STEP 4: Verify Upload
 ----------------------
-1. Go to: https://github.com/YOUR_USERNAME/dsa3050-midsem-powerbi
+1. Go to: https://github.com/speedy-insect/Nicholas_Kinyanjui_MidSem_Ecommerce
 2. Check all files are there
-3. Verify README.md displays correctly
+3. Verify README.md displays correctly with embedded screenshots
 4. Copy the repository URL
 
 
-STEP 5: Update README with GitHub Link
----------------------------------------
-1. Edit README.md
-2. Replace "yourusername" with your actual username in GitHub link
-3. Save file
-4. Run:
-   git add README.md
-   git commit -m "Updated GitHub link"
-   git push
+STEP 5: Done!
+-------------
+Your repository is now live and ready for submission.
+No need to update README - GitHub link is already correct.
 
 
 ========================================
