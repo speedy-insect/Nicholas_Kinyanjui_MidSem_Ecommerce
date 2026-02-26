@@ -111,6 +111,18 @@ Each table underwent 10+ transformations including:
 
 ![Kaggle Dataset Source](screenshots/dataset_source/Where%20i%20got%20the%20data.png)
 
+**Power Query Transformations:**
+
+![Data Quality Check - Missing Values](screenshots/power_query/Q1_Problem1_Missing_SellerID.png)
+
+![Data Types Correction](screenshots/power_query/set%20collect%20data%20types.png)
+
+![Text Standardization](screenshots/power_query/Text%20Standardization.png)
+
+![Conditional Column Creation](screenshots/power_query/Q4.1%20Conditional%20%20column.png)
+
+![Custom Column Creation](screenshots/power_query/Q4.2%20%20Custom%20Column.png)
+
 ---
 
 ## Part B: Data Modelling (15 Marks)
