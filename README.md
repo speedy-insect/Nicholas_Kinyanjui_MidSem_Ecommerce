@@ -410,6 +410,3 @@ The implementation follows best practices in data modeling, transformation, and 
 - Course: DSA 3050A - Business Intelligence & Data Visualization
 
 ---
-
-**Submission Date:** [Date]  
-**Total Marks:** 50 Marks
