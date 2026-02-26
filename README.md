@@ -263,7 +263,8 @@ Dashboard is publicly accessible at the link provided above. No login required.
 
 **Publishing Confirmation:**
 
-![Power BI Service](screenshots/publishing/Blank%20Power%20BI%20window.png)
+<img width="1918" height="974" alt="image" src="https://github.com/user-attachments/assets/4a7dfe58-b26c-4e1c-b770-f3370b21c7fd" />
+
 
 ---
 
