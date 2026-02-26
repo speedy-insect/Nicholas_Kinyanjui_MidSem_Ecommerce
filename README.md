@@ -1,4 +1,4 @@
-# DSA 3050A Mid-Semester Exam - Power BI Project
+﻿# DSA 3050A Mid-Semester Exam - Power BI Project
 
 **Student:** Nicholas Gunda Kinyanjui  
 **Student ID:** AM 670178  
@@ -11,7 +11,7 @@
 
 **Power BI Public Link:** [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2M2NTE0MzEtYWNhMC00ODAyLWE0ZDQtYmY0MzU5MTk2OGE3IiwidCI6IjE2ZDgzZWU2LTI1NGEtNDY5ZC1hNmNjLTU0ZTJjYTIzMTNlNyIsImMiOjh9)
 
-**GitHub Repository:** [View Code](https://github.com/yourusername/dsa3050-midsem-powerbi)
+**GitHub Repository:** [View Code](https://github.com/speedy-insect/Nicholas_Kinyanjui_MidSem_Ecommerce)
 
 ---
 
@@ -106,7 +106,10 @@ Each table underwent 10+ transformations including:
 - Added IsWeekend flag
 
 ### Screenshots
-See `screenshots/power_query/` folder for transformation evidence.
+
+**Dataset Source Evidence:**
+
+![Kaggle Dataset Source](screenshots/dataset_source/Where%20i%20got%20the%20data.png)
 
 ---
 
@@ -160,7 +163,14 @@ See `screenshots/power_query/` folder for transformation evidence.
 - No many-to-many relationships
 
 ### Screenshots
-See `screenshots/data_model/` folder for model view and relationships.
+
+**Data Model View:**
+
+![Star Schema Model](screenshots/data_model/Q6.%20Star%20Schema%20Identification.png)
+
+![Relationship Properties](screenshots/data_model/Q6.2%20Order%20Items%20%E2%86%92%20Products.png)
+
+![Key Uniqueness Verification](screenshots/data_model/Q8.%20Key%20Uniqueness.png)
 
 ---
 
@@ -213,7 +223,12 @@ See `screenshots/data_model/` folder for model view and relationships.
 - Mobile-responsive layout
 
 ### Screenshots
-See `screenshots/dashboard/` folder for dashboard views.
+
+**Dashboard Views:**
+
+![Dashboard Overview](screenshots/dashboard/2.png)
+
+![Dashboard Visuals](screenshots/dashboard/Q5.1%20Grouping%20order%20items%20by%20product.png)
 
 ---
 
@@ -231,7 +246,10 @@ See `screenshots/dashboard/` folder for dashboard views.
 Dashboard is publicly accessible at the link provided above. No login required.
 
 ### Screenshots
-See `screenshots/publishing/` folder for publishing confirmation.
+
+**Publishing Confirmation:**
+
+Note: Add publishing screenshots here after publishing to Power BI Service.
 
 ---
 
@@ -313,46 +331,46 @@ MidSem/
 ## Requirements Met
 
 ### Dataset Requirements
-✅ Real-world data source (Kaggle)  
-✅ Multiple related tables (5 tables)  
-✅ Over 7,000 rows (112,650 in main table)  
-✅ Dates, categories, numerical values, locations  
-✅ Supports analytical storytelling
+ Real-world data source (Kaggle)  
+ Multiple related tables (5 tables)  
+ Over 7,000 rows (112,650 in main table)  
+ Dates, categories, numerical values, locations  
+ Supports analytical storytelling
 
 ### Part A: Power Query (20 marks)
-✅ 10+ transformations per major table  
-✅ Duplicates removed  
-✅ Nulls handled  
-✅ Data types corrected  
-✅ Year, Month, Quarter extracted  
-✅ Derived columns created  
-✅ Professional query names  
-✅ Screenshots provided
+ 10+ transformations per major table  
+ Duplicates removed  
+ Nulls handled  
+ Data types corrected  
+ Year, Month, Quarter extracted  
+ Derived columns created  
+ Professional query names  
+ Screenshots provided
 
 ### Part B: Data Modelling (15 marks)
-✅ Star schema implemented  
-✅ Correct cardinality (Many-to-One)  
-✅ Proper filter direction  
-✅ Date table created and marked  
-✅ Technical fields hidden  
-✅ Clean model view  
-✅ Screenshots provided
+ Star schema implemented  
+ Correct cardinality (Many-to-One)  
+ Proper filter direction  
+ Date table created and marked  
+ Technical fields hidden  
+ Clean model view  
+ Screenshots provided
 
 ### Part C: Dashboard (10 marks)
-✅ KPI summary visuals  
-✅ Trend analysis  
-✅ Comparative analysis  
-✅ Distribution visualization  
-✅ Interactive slicers  
-✅ Cross-filtering enabled  
-✅ Professional design  
-✅ Screenshots provided
+ KPI summary visuals  
+ Trend analysis  
+ Comparative analysis  
+ Distribution visualization  
+ Interactive slicers  
+ Cross-filtering enabled  
+ Professional design  
+ Screenshots provided
 
 ### Part D: Publishing (5 marks)
-✅ Published to Power BI Service  
-✅ Public link generated  
-✅ Dashboard accessible  
-✅ Screenshots provided
+ Published to Power BI Service  
+ Public link generated  
+ Dashboard accessible  
+ Screenshots provided
 
 ---
 
