@@ -1,0 +1,93 @@
+========================================
+SCREENSHOTS ORGANIZED
+========================================
+
+Total Screenshots: 11 images organized
+
+========================================
+FOLDER STRUCTURE
+========================================
+
+screenshots/
+├── dataset_source/
+│   └── Where i got the data.png
+│
+├── power_query/
+│   ├── Q1_Problem1_Missing_SellerID.png
+│   ├── set collect data types.png
+│   ├── Text Standardization.png
+│   ├── Q4.1 Conditional  column.png
+│   └── Q4.2  Custom Column.png
+│
+├── data_model/
+│   ├── Q6. Star Schema Identification.png
+│   ├── Q6.2 Order Items → Products.png
+│   └── Q8. Key Uniqueness.png
+│
+├── dashboard/
+│   ├── 2.png
+│   └── Q5.1 Grouping order items by product.png
+│
+└── publishing/
+    └── (Add publishing screenshots here)
+
+========================================
+WHAT EACH SCREENSHOT SHOWS
+========================================
+
+Dataset Source:
+- Where i got the data.png → Kaggle download page
+
+Power Query:
+- Q1_Problem1_Missing_SellerID.png → Data quality issues
+- set collect data types.png → Data type conversions
+- Text Standardization.png → Text transformations
+- Q4.1 Conditional  column.png → Conditional column
+- Q4.2  Custom Column.png → Custom column with formula
+
+Data Model:
+- Q6. Star Schema Identification.png → Model view
+- Q6.2 Order Items → Products.png → Relationship properties
+- Q8. Key Uniqueness.png → Key verification
+
+Dashboard:
+- 2.png → Dashboard view
+- Q5.1 Grouping order items by product.png → Visual example
+
+Publishing:
+- (Add screenshots after publishing to Power BI Service)
+
+========================================
+MISSING SCREENSHOTS (TO ADD)
+========================================
+
+You should add these when you publish:
+
+publishing/
+- Publishing_success.png (Publishing confirmation dialog)
+- Public_dashboard_browser.png (Dashboard in browser)
+- Link_test.png (Testing public link)
+
+========================================
+HOW TO ADD MORE SCREENSHOTS
+========================================
+
+1. Take screenshot
+2. Save to appropriate subfolder
+3. Run:
+   git add screenshots/
+   git commit -m "Added [description] screenshot"
+   git push
+
+========================================
+READY FOR SUBMISSION
+========================================
+
+✓ 11 screenshots organized
+✓ Committed to git
+✓ Ready to push to GitHub
+✓ Can be included in PDF
+
+Add publishing screenshots after you publish to Power BI Service!
+
+========================================
