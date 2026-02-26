@@ -109,19 +109,19 @@ Each table underwent 10+ transformations including:
 
 **Dataset Source Evidence:**
 
-![Kaggle Dataset Source](screenshots/dataset_source/Where%20i%20got%20the%20data.png)
+![Import Data to Power BI](screenshots/dataset_source/IMPORT%20DATA.png)
 
 **Power Query Transformations:**
 
-![Data Quality Check - Missing Values](screenshots/power_query/Q1_Problem1_Missing_SellerID.png)
+![Remove Duplicates](screenshots/power_query/Remove%20Duplicates.png)
 
-![Data Types Correction](screenshots/power_query/set%20collect%20data%20types.png)
+![Transform DimOrders](screenshots/power_query/Transform%20DimOrders.png)
 
-![Text Standardization](screenshots/power_query/Text%20Standardization.png)
+![Transform DimProducts](screenshots/power_query/Transform%20DimProducts.png)
 
-![Conditional Column Creation](screenshots/power_query/Q4.1%20Conditional%20%20column.png)
+![Create Conditional Column - Price Category](screenshots/power_query/Create%20Conditional%20Column%20-%20Price%20Category.png)
 
-![Custom Column Creation](screenshots/power_query/Q4.2%20%20Custom%20Column.png)
+![Create Custom Column - Total Value](screenshots/power_query/Create%20Custom%20Column%20-%20Total%20Value.png)
 
 ---
 
@@ -178,11 +178,11 @@ Each table underwent 10+ transformations including:
 
 **Data Model View:**
 
-![Star Schema Model](screenshots/data_model/Q6.%20Star%20Schema%20Identification.png)
+![Create Date Dimension Table](screenshots/data_model/Create%20Date%20Dimension%20Table.png)
 
-![Relationship Properties](screenshots/data_model/Q6.2%20Order%20Items%20%E2%86%92%20Products.png)
+![Create Relationships](screenshots/data_model/Create%20Relationships.png)
 
-![Key Uniqueness Verification](screenshots/data_model/Q8.%20Key%20Uniqueness.png)
+![Mark Date Table](screenshots/data_model/Mark%20Date%20Table.png)
 
 ---
 
@@ -238,9 +238,11 @@ Each table underwent 10+ transformations including:
 
 **Dashboard Views:**
 
-![Dashboard Overview](screenshots/dashboard/2.png)
+![Complete Dashboard](screenshots/dashboard/Complete%20and%20formatted%20dashboard.png)
 
-![Dashboard Visuals](screenshots/dashboard/Q5.1%20Grouping%20order%20items%20by%20product.png)
+![KPI Cards](screenshots/dashboard/kpicards.png)
+
+![Trend Line Chart](screenshots/dashboard/Trend%20line%20chart.png)
 
 ---
 
@@ -261,7 +263,7 @@ Dashboard is publicly accessible at the link provided above. No login required.
 
 **Publishing Confirmation:**
 
-Note: Add publishing screenshots here after publishing to Power BI Service.
+![Power BI Service](screenshots/publishing/Blank%20Power%20BI%20window.png)
 
 ---
 
